@@ -64,7 +64,7 @@ public class WeatherActivity extends AppCompatActivity {
 
     private ImageView bingPicImg;
 
-    private String mWeatherId;
+    private String mWeatherIid;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
